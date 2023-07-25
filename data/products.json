@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Shure SM7B Cardioid Dynamic Microphone",
+      "price": 349,
+      "description": "The Shure SM7B is a cardioid dynamic microphone that is designed for use in a variety of settings, including live performances, podcasting, and home recording. It features a smooth, flat, wide-range frequency response and a built-in pop filter and shock mount for reduced noise and handling noise.",
+      "category": "Electronics",
+      "seller": "Shure",
+      "stock": 5,
+      "images": [
+        {
+          "public_id": "buyitnow/products/gclqht0hjco0jyy9s2bx",
+          "url": "http://res.cloudinary.com/shopitnow-udemy/image/upload/v1674393848/buyitnow/products/gclqht0hjco0jyy9s2bx.jpg"
+        },
+        {
+          "public_id": "buyitnow/products/qdilqh5oizvnwfu2bkzq",
+          "url": "http://res.cloudinary.com/shopitnow-udemy/image/upload/v1674393852/buyitnow/products/qdilqh5oizvnwfu2bkzq.jpg"
+        },
+        {
+          "public_id": "buyitnow/products/cjtvzn5crbcyddo2hlai",
+          "url": "http://res.cloudinary.com/shopitnow-udemy/image/upload/v1674393855/buyitnow/products/cjtvzn5crbcyddo2hlai.jpg"
+        }
+      ],
+      "reviews": [],
+      "ratings": 4.5
+    } 
+  ]
